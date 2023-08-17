@@ -1,0 +1,10 @@
+Text file containing all combinations player B used to guess the four balls...
+
+Round 1: red yellow orange purple
+Round 2: purple blue red green
+Round 3: purple red green blue
+Round 4: purple green blue red
+
+Game over!
+
+Player B took 4 rounds to guess the correct combinations.
